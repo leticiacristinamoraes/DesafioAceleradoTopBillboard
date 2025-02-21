@@ -27,7 +27,6 @@ Pandas para manipulação de dados
 1️⃣ Clonar o repositório
 
 git clone https://github.com/leticiacristinamoraes/DesafioAceleradoTopBillboard.git
-cd app.py
 
 2️⃣ Criar e ativar um ambiente virtual
 
